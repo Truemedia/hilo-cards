@@ -1,0 +1,22 @@
+{
+  "name": "hilo-cards",
+  "version": "1.0.0",
+  "description": "Hi-Low playing cards game using Vue JS",
+  "main": "src/hilo/HiLo.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/hilo-cards.git"
+  },
+  "dependencies": {
+    "fast-shuffle": "^5.0.2"
+  },
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/hilo-cards/issues"
+  },
+  "homepage": "https://github.com/Truemedia/hilo-cards#readme"
+}
